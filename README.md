@@ -13,7 +13,7 @@ To use the Padel Tennis Tracker, follow these steps:
    bash
    git clone https://github.com/your-repo/padel-tennis-tracker.git
    cd padel-tennis-tracker
-   2. Install dependencies:
+2. Install dependencies:
    bash
    pip install -r requirements.txt
    
